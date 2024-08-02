@@ -1,4 +1,40 @@
+body{
+    background-color: #ffffff;
+}
+.sombra {
+    box-shadow: 10px 6px 10px 5px #4a2074;
 
+}
+h1{
+    font-family: "Lobster Two", sans-serif;
+
+}
+span:hover{
+    color: blueviolet;
+}
+
+button {
+    border: none;
+    background-color: #ffffff;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+button:hover {
+    color: blueviolet;
+}
+
+input {
+    border: none;
+    width: 80%;
+    padding: 10px;
+    text-align: center;
+    font-size: x-large;
+}
+
+.parrafo{
+    font-size: x-large;
+}
 /* 
 
     You can write your own styles here...
